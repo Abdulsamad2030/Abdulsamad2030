@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdulsamad 👋
 
-###Data & AI Automation Enthusiast | Physics Graduate | Exploring Blockchain & Cloud Computing | I4G Alumni
+### Data & AI Automation Enthusiast | Physics Graduate | Exploring Blockchain & Cloud Computing | I4G Alumni
 </div>
 
 ---
@@ -29,7 +29,7 @@
 - 💻 Built the **Base Metrics Data Collection App** — a TypeScript-based platform adopted by field facilitators and supervisors
 - 🎓 B.Sc. Physics — Northwest University, Kano (2026) — final-year research on Radiative Forcing & Climate Sensitivity
 - 🌍 Background also spans **blockchain/Web3 research writing**, **AI automation**, and **cloud computing**
-- 🤝 Open to **data entry, operations roles**
+- 🤝 Open to **Data roles**
 
 ---
 
