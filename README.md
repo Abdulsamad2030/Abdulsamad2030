@@ -23,7 +23,6 @@
 
 - 📍 Based in **Kano, Nigeria**
 - 🧾 3+ years of experience in **data collection, validation, quality assurance, and documentation** across NGO and business environments
-- 💳 Hands-on **POS terminal operations** experience — merchant transactions, bill payments, and customer records, daily, with zero reconciliation errors
 - 📜 UNICEF-certified in **Primary Data Collection, Collating & Cleaning Data, Data Analysis**, and **KoboCollect** (via Agora / EMOPS, 2026)
 - 🧮 Advanced **Excel**, experienced with **Google Workspace** and **KoboToolbox**
 - 💻 Built the **Base Metrics Data Collection App** — a TypeScript-based platform adopted by field facilitators and supervisors
